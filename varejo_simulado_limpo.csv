@@ -1,0 +1,49 @@
+registro_id,cliente_id,genero,categoria,valor_compra,quantidade,cidade,canal
+R0001,C009,Masculino,Alimentos,348.79,4,Salvador,App
+R0002,C017,Masculino,Alimentos,642.97,6,Belo Horizonte,Loja
+R0003,C002,Masculino,Moda,220.8,4,Belo Horizonte,App
+R0004,C017,Feminino,Moda,891.57,1,Curitiba,Loja
+R0005,C010,Masculino,Beleza,912.45,5,Belo Horizonte,Loja
+R0006,C018,Não informado,Alimentos,949.51,2,Curitiba,Site
+R0007,C003,Não informado,Eletrônicos,438.9,9,Salvador,Loja
+R0008,C008,Masculino,Alimentos,776.59,9,Rio De Janeiro,Site
+R0009,C006,Masculino,Moda,1450.93,3,Belo Horizonte,Site
+R0010,C016,Masculino,Eletrônicos,,9,Belo Horizonte,App
+R0011,C023,Não informado,Eletrônicos,1003.29,5,São Paulo,Site
+R0012,C003,Feminino,Beleza,1000.46,1,Rio De Janeiro,App
+R0013,C021,Masculino,Moda,235.07,8,Curitiba,Site
+R0014,C007,Masculino,Beleza,355.17,1,Salvador,App
+R0015,C012,Feminino,Beleza,156.74,8,Rio De Janeiro,Site
+R0016,C019,Não informado,Casa,962.38,4,Curitiba,Loja
+R0017,C013,Não informado,Eletrônicos,589.95,6,Curitiba,Loja
+R0018,C011,Feminino,Eletrônicos,1324.16,7,Rio De Janeiro,Site
+R0019,C019,Masculino,Eletrônicos,436.99,1,São Paulo,Site
+R0020,C005,Masculino,Casa,466.04,3,Rio De Janeiro,App
+R0021,C004,Não informado,Moda,614.93,9,Curitiba,Loja
+R0022,C017,Não informado,Beleza,721.22,5,São Paulo,Loja
+R0023,C023,Não informado,Casa,1334.38,8,Salvador,Loja
+R0024,C008,Feminino,Eletrônicos,467.25,9,Salvador,Site
+R0025,C002,Masculino,Moda,88.9,4,Rio De Janeiro,Site
+R0026,C001,Masculino,Eletrônicos,865.33,3,Rio De Janeiro,App
+R0027,C014,Masculino,Alimentos,568.85,5,Salvador,App
+R0028,C002,Feminino,Casa,269.1,8,Belo Horizonte,Site
+R0029,C006,Masculino,Beleza,1099.38,4,Rio De Janeiro,Loja
+R0030,C007,Feminino,Moda,1351.13,1,Salvador,Site
+R0031,C004,Masculino,Moda,1454.96,3,Rio De Janeiro,App
+R0032,C001,Não informado,Beleza,,4,Belo Horizonte,App
+R0033,C017,Feminino,Moda,98.83,4,São Paulo,App
+R0034,C008,Feminino,Beleza,654.32,5,Curitiba,Site
+R0035,C022,Feminino,Casa,303.68,4,Rio De Janeiro,Loja
+R0036,C018,Feminino,Casa,1479.64,5,Curitiba,App
+R0037,C007,Não informado,Eletrônicos,174.03,3,São Paulo,App
+R0038,C017,Masculino,Casa,238.95,6,São Paulo,Loja
+R0039,C009,Masculino,Eletrônicos,1188.96,5,Salvador,Loja
+R0040,C018,Masculino,Moda,481.81,3,São Paulo,App
+R0041,C002,Não informado,Alimentos,626.59,6,Belo Horizonte,App
+R0042,C014,Feminino,Eletrônicos,221.06,1,São Paulo,Site
+R0043,C008,Masculino,Beleza,1267.36,4,Salvador,Site
+R0044,C012,Feminino,Beleza,1031.51,6,São Paulo,Loja
+R0045,C017,Não informado,Alimentos,1175.3,9,Curitiba,App
+R0046,C003,Não informado,Alimentos,1007.68,2,Belo Horizonte,Site
+R0047,C003,Feminino,Alimentos,277.32,6,São Paulo,App
+R0048,C017,Feminino,Moda,731.62,4,São Paulo,App
